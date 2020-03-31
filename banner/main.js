@@ -1,5 +1,6 @@
 var $banner = (function () {
     //轮播图前端页面
+    var index = 1;
     var $div = $(''
         + '<div class="slider" id="slider">'
         + '<div class="slide">'
@@ -41,7 +42,7 @@ var $banner = (function () {
         $box.append($div);
 
         //初始值设置
-        var index = 1,onload, timer;
+        var onload, timer;
         //获取元素      
         var slider = document.getElementById('slider');
         var left = document.getElementById('left');
