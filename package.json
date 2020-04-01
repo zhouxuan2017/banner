@@ -1,0 +1,26 @@
+{
+  "name": "banner",
+  "version": "1.0.0",
+  "description": "使用组件化开发过程实现轮播图组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouxuan2017/banner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouxuan2017/banner/issues"
+  },
+  "homepage": "https://github.com/zhouxuan2017/banner#readme",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-imagemin": "^4.0.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
