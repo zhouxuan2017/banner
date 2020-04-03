@@ -25,7 +25,7 @@ var $banner = (function () {
         + '<img src="img/b1.png" alt="">'
         + '</div>'
         + '</div>'
-        + '<span id="left">' + '>' + '</span>'
+        + '<span id="left">' + '<' + '</span>'
         + '<span id="right">></span>'
         + '<ul class="nav" id="navs">'
         + '<li class="active">1</li>'
