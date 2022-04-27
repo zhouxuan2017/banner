@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/zhouxuan2017/banner#readme",
   "devDependencies": {
-    "grunt": "^1.1.0",
+    "grunt": "^1.5.2",
     "grunt-contrib-cssmin": "^3.0.0",
     "grunt-contrib-htmlmin": "^3.1.0",
     "grunt-contrib-imagemin": "^4.0.0",
